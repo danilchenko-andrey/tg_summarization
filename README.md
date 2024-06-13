@@ -1,0 +1,3 @@
+# Telegram chat summarization
+
+Simple telegram bot that can summarize chats by request. Under construction...
